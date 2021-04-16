@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1585427980 source:c:\users\emis\desktop\staque\main.cpp
+	"Staque.h"
+	<iostream>
+	"Staque.h"
+
+1585430850 c:\users\emis\desktop\staque\include\staque.h
+	<stdio.h>
+	<iostream>
+
+1585430851 source:c:\users\emis\desktop\staque\src\staque.cpp
+	"Staque.h"
+	<new>
+

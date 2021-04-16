@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1588797289 source:c:\users\emis\desktop\assignment_bst_1\main.cpp
+	<iostream>
+	"BST.h"
+	"TreeNode.h"
+
+1588793302 c:\users\emis\desktop\assignment_bst_1\include\bst.h
+	<iostream>
+	"TreeNode.h"
+
+1588798934 source:c:\users\emis\desktop\assignment_bst_1\src\bst.cpp
+	<iostream>
+	"BST.h"
+
+1588793302 c:\users\emis\desktop\assignment_bst_1\include\treenode.h
+	"BST.h"
+

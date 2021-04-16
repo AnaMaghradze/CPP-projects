@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1586514357 source:c:\users\emis\desktop\polyinheritance\main.cpp
+	<iostream>
+	<new>
+	"Employee.h"
+	"Owner.h"
+	"Chef.h"
+	"Waiter.h"
+
+1586513288 c:\users\emis\desktop\polyinheritance\include\employee.h
+
+1586513288 c:\users\emis\desktop\polyinheritance\include\owner.h
+	"Employee.h"
+
+1586513288 c:\users\emis\desktop\polyinheritance\include\chef.h
+	"Employee.h"
+
+1586513288 c:\users\emis\desktop\polyinheritance\include\waiter.h
+	"Employee.h"
+
+1586467963 source:c:\users\emis\desktop\polyinheritance\src\owner.cpp
+	<iostream>
+	<string>
+	"Employee.h"
+	"Owner.h"
+
+1586519563 source:c:\users\emis\desktop\polyinheritance\src\employee.cpp
+	<iostream>
+	<string>
+	"Employee.h"
+
+1586464356 source:c:\users\emis\desktop\polyinheritance\src\chef.cpp
+	<iostream>
+	<string>
+	"Chef.h"
+	"Employee.h"
+
+1586514617 source:c:\users\emis\desktop\polyinheritance\src\waiter.cpp
+	<iostream>
+	<string>
+	"Waiter.h"
+	"Employee.h"
+

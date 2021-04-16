@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1583191343 source:c:\users\emis\desktop\platypus\main.cpp
+	"platypus.h"
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"platypus.h"
+
+1583189737 c:\users\emis\desktop\platypus\include\platypus.h
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1583194006 source:c:\users\emis\desktop\platypus\src\platypus.cpp
+	"platypus.h"
+	<iostream>
+	<cstdlib>
+	<time.h>
+
